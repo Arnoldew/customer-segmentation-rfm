@@ -1,5 +1,3 @@
-# customer-segmentation-rfm
-
 # Business Insights — Customer Segmentation (RFM)
 
 # 1. Champions adalah pelanggan paling bernilai
